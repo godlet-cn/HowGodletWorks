@@ -2,7 +2,7 @@ package response
 
 import (
 	"fmt"
-	"github.com/godlet-cn/HowGodletWorks/exp01/request"
+	"github.com/godlet-cn/HowGodletWorks/exp02/request"
 	"net"
 )
 
